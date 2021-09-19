@@ -1,2 +1,2 @@
 # DjangoProject
- A simple django project with record
+ to run python manage.py run server
